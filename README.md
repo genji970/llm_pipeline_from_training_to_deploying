@@ -6,7 +6,7 @@
 4) `git clone service folder`
 5) move saved model from llm_project_train to service folder
 6) `pip install -r api_for_service/requirements.txt`
-7) python -m main
+7) `python -m main`
 8) api run
 
 or just simply
