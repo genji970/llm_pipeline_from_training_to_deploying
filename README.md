@@ -8,7 +8,7 @@
 6) `pip install -r api_for_service/requirements.txt`
 7) `python -m main`
 8) api run
-9) 'ctrl + c' url and add docs. Then, you can test chat system. `http://127.0.0.1:8000/docs#/default/predict_predict_post`
+9) 'ctrl + c' url and add docs. Then, you can test chat system. `http://127.0.0.1:8000/docs`
 
 or just simply
 
