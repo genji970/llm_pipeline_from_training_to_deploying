@@ -36,6 +36,6 @@ This project contents are come from `https://github.com/genji970/llm_api_service
 ## used ##
 python==3.10.12 , torch , ray , huggingface , langchain(not yet) , docker , csv , fast api, aws ec2, etc.
 
-## contributing ##
+## contributions ##
 Contributions are welcome! if you want to contribute, then please submit a pr.
 
