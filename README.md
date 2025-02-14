@@ -18,7 +18,7 @@ or just simply
 
 ## Detail ##
 
-This repo consist of two parts. llm_project_train folder + Dockerfile. api_for_service folder.
+This repo consist of two parts. llm_project_train folder + Dockerfile. api_for_service folder.(I merged two different project into one.)
 
 Data_generating -> model_build -> master
 
